@@ -1,0 +1,3 @@
+C:/Users/LiPo/Desktop/Programming_Projects/BattleShipTerminal in C/build/CMakeFiles/BattleShip.dir
+C:/Users/LiPo/Desktop/Programming_Projects/BattleShipTerminal in C/build/CMakeFiles/edit_cache.dir
+C:/Users/LiPo/Desktop/Programming_Projects/BattleShipTerminal in C/build/CMakeFiles/rebuild_cache.dir
